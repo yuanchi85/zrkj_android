@@ -1,0 +1,197 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dip" 
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/lightgreen"
+        android:gravity="center_vertical"
+        android:paddingBottom="10dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="2dp"
+        android:paddingTop="10dp" >
+
+        <!-- android:layout_weight="0.1"  比例    android:layout_width="30dip"直接宽度 -->
+        <!--
+            <RadioButton
+            android:id="@+id/cbCheckBox"
+           	android:layout_width="30dip"
+            android:layout_height="match_parent"
+            android:focusable="false" />
+        -->
+	<!--  <include layout="@layout/project_listview_pack_layout" />-->
+        <TextView
+            android:id="@+id/xh"
+            android:layout_width="30dip"
+            android:layout_height="match_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="序号"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/a"
+            android:layout_width="80dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题a"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/b"
+            android:layout_width="150dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题b"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/c"
+            android:layout_width="80dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题c"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/d"
+            android:layout_width="150dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题d"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/e"
+            android:layout_width="90dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题e"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/f"
+            android:layout_width="90dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题f"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/g"
+            android:layout_width="90dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题g"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/h"
+            android:layout_width="90dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题h"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/i"
+            android:layout_width="90dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题i"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/j"
+            android:layout_width="90dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题j"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/k"
+            android:layout_width="90dip"
+            android:layout_height="fill_parent"
+            android:divider="#DADBDA"
+            android:dividerHeight="1px"
+            android:fadingEdge="none"
+            android:gravity="center"
+            android:text="标题k"
+            android:textColor="@color/black_color"
+            android:windowSoftInputMode="stateHidden" >
+        </TextView>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#00BFFF"
+        android:dividerHeight="1px"
+        android:fadingEdge="none" >
+    </ListView>
+
+</LinearLayout>

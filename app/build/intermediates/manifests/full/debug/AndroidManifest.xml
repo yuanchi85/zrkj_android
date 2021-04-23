@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.finddreams.baselib"
+    android:versionCode="24"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="21" />
+
+    <!-- 各种权限 -->
+    <!-- 手机振动的权限 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- 指定添加安装快捷方式的权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+
+    <uses-feature android:name="android.hardware.usb.host" />
+
+    <meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature android:name="android.hardware.usb.host" />
+
+    <meta-data android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/kanghong"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- demo -->
+        <!-- android:name="zrkj.demo.Demo" -->
+        <activity
+            android:name="zrkj.project.Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- zrkjproject -->
+        <activity android:name="zrkj.project.MainMenu" />
+        <activity android:name="zrkj.project.zrkj.Main_Activity" />
+        <activity
+            android:name="zrkj.project.zrkj.FenTuoRkActivity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.RuKuFuHe_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.RuKuZhiJian_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.PoDaiTiaoZheng_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.DiaoBo_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.XiaoHuo_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.TuiHuo_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.PiHaoSheZhi_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.PanDianRuKu_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.TuiHuoSaoMiao_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.KuCunChaXun_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.PiLiang_XiaoHuo_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.ShengChanShuLiang_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="zrkj.project.zrkj.BuLuRuKu_Activity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <!-- 服务或者应用开机启动 -->
+        <!--
+        <receiver android:name="com.finddreams.baselib.broadcastReceiver.InstalledReceiver">
+	        <intent-filter>
+		        <action android:name="android.intent.action.BOOT_COMPLETED" />
+		        <category android:name="android.intent.category.HOME" />
+	        </intent-filter>
+    	</receiver>
+        -->
+        <!-- 拍照上传 -->
+        <!-- <activity android:name="com.finddreams.baselib.activity.CaptureActivity" /> -->
+        <!-- MQTT服务 -->
+        <!-- <service android:name="com.finddreams.baselib.service.RabbitMQService" /> -->
+    </application>
+
+</manifest>

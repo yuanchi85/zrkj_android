@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_right_press.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\topbar_right_press.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_share_return.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\share_return.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_icon_carme.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-ldpi\\icon_carme.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_line_blue.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\line_blue.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_devicelist.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_devicelist.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_tree.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_tree.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_progress_style.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_bind_cancel_.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\btn_bind_cancel_.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_img_ratio.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\home_img_ratio.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_listview_item_layout_tree.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_listview_item_layout_tree.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_right_normal.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\topbar_right_normal.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_btn_normal.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\menu_btn_normal.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bg_bordercopy.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-ldpi\\bg_bordercopy.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_pull_to_load_footer.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\pull_to_load_footer.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_zrkj_login.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\zrkj_login.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_me_share_return_press.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\me_share_return_press.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_fragment1.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_fragment1.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_xiaohuo_tbaerl.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo_tbaerl.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_shanchu.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-xhdpi\\shanchu.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_toast_bg.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_gongdanlingliaoxiugaishuliang_common_layout.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\gongdanlingliaoxiugaishuliang_common_layout.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_slip_right.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\slip_right.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_pop_enter.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_operateerror.mp3.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\operateerror.mp3"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_v1_7_back_hover.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\v1_7_back_hover.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_success.mp3.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\success.mp3"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_img_ratio_selected.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\home_img_ratio_selected.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_tab_indicator.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_progressdialog.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\progressdialog.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_slip_left.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\slip_left.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tuihuo.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\tuihuo.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_pihaoshezi_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\pihaoshezi_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_tuihuo_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\tuihuo_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_v1_7_back_blue_nor.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\v1_7_back_blue_nor.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_fragment2.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_fragment2.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_login_button_selector.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\login_button_selector.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_xiaohuo_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_systemerror.mp3.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\systemerror.mp3"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_qrcode_found.wav.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\qrcode_found.wav"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demobluetooth.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demobluetooth.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_pilinagxiaohou_dialog_layout.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\pilinagxiaohou_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_view_top_bar.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\view_top_bar.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_touxiang.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\touxiang.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_scroll_fragment.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_scroll_fragment.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_icon_carme_selected.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-ldpi\\icon_carme_selected.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_neterror.mp3.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\neterror.mp3"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_diaobo_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\diaobo_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_diaobo.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\diaobo.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_radiobutton_selector.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\radiobutton_selector.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_picture_upload.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\picture_upload.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_update_loading_progressbar_anim.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\update_loading_progressbar_anim.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_textcolor_selector.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\textcolor_selector.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_pandianruku_tbaerl.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\pandianruku_tbaerl.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_xiaohuoguanli.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\xiaohuoguanli.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_picture_upload_util.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\picture_upload_util.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_project_mainmenu.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\project_mainmenu.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\color_tab_theme.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\color\\tab_theme.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_top_right_selector.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\top_right_selector.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_zujiemian.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\activity_zujiemian.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fentuo.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\fentuo.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_select_dialog.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_select_dialog.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_listview_item_layout.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_news_tab_item_bg_select.9.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\news_tab_item_bg_select.9.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_pull_to_refresh_header.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_btn_pressed.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\menu_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_buluruku_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\buluruku_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_tuihuosaomiao_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\tuihuosaomiao_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_title_fragment.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_title_fragment.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_left.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_txt_lock_icon.jpg.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\txt_lock_icon.jpg"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_slip_ball.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\slip_ball.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_rukufuhe_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\rukufuhe_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_iv_lc_icon.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\iv_lc_icon.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_camera_icon.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\camera_icon.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_xsearch_msg_pull_arrow_down.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\xsearch_msg_pull_arrow_down.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_xiugaishuliang_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\xiugaishuliang_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_camera.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_diaobo_tbaerl.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\diaobo_tbaerl.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_pulltorefreshview.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_pulltorefreshview.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_view_custom_toast.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\view_custom_toast.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_top_bg2.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\scan_top_bg2.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape_bule_button.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\shape_bule_button.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_emotionstore_progresscancelbtn.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_fenbao_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\fenbao_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_baseweb.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\activity_baseweb.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_bottom.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_pg.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\pg.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_popu_get_photo.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\popu_get_photo.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_bind_cancel.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\btn_bind_cancel.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_me_share_return_normal.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\me_share_return_normal.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_pihaoshezhi.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\pihaoshezhi.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_left.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_xsearch_loading.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\xsearch_loading.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_top.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\in_from_top.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape_wihte_frame.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\shape_wihte_frame.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_ywc.mp3.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\ywc.mp3"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_txt_person_icon.jpg.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\txt_person_icon.jpg"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_ad_cycle_view.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\ad_cycle_view.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_text_del.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\text_del.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_baesprount_layout.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\baesprount_layout.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_lol_icon.jpg.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_lol_icon.jpg"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_bg_border.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\bg_border.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_kanghong.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\kanghong.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_pandianruku_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\pandianruku_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_xiaohuo3_tbaerl.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo3_tbaerl.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_common_layout.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\dialog_common_layout.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_bottom.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_zhijian.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\zhijian.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_progress_bar_states.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_bg.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_s_search_bg.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\s_search_bg.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_caigoufuhe.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\caigoufuhe.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_viewpager_item.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_fragment_parnet.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_fragment_parnet.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_rukuzhijian_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\rukuzhijian_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_xiaohuo_common_layout.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo_common_layout.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_softupdate_progress.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape_touch_bule_button.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\shape_touch_bule_button.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_toast_view.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\toast_view.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_top.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\out_to_top.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_right.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_beep51.wav.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\beep51.wav"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_zzwc.mp3.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\zzwc.mp3"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_zdyspinner.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\zdyspinner.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_icon_upload.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-ldpi\\icon_upload.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_line_white.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\line_white.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_web.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_db.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_db.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scan_icon_nor.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\scan_icon_nor.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_tlwc.mp3.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\tlwc.mp3"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_mima.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\mima.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demorfid.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demorfid.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_podaitiaozheng_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\podaitiaozheng_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_round_white.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\bg_round_white.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_iv_bg_lc.jpg.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\iv_bg_lc.jpg"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_tuihuo_tbaerl.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\tuihuo_tbaerl.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\menu_login.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_xiaohuo2_tbaerl.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo2_tbaerl.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tiaozheng.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\tiaozheng.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_text_blue.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\text_blue.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_beep.wav.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\beep.wav"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_icon_head.jpg.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_icon_head.jpg"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_txtborder.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\txtborder.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_beep2.wav.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\beep2.wav"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fuhe.png.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\fuhe.png"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_pop_exit.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\pop_exit.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_draw.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_draw.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\drawable_back_seletor.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\drawable\\back_seletor.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_right.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\raw_biaobiao.mp3.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\raw\\biaobiao.mp3"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_demo_treeview_item.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\demo_treeview_item.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_piliangxiaohuo_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\piliangxiaohuo_activity.xml"
+    },
+    {
+        "merged": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\res\\merged\\release\\layout_kucunchaxun_activity.xml.flat",
+        "source": "E:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\src\\main\\res\\layout\\kucunchaxun_activity.xml"
+    }
+]

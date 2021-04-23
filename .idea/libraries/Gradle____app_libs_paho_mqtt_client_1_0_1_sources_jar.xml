@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/paho-mqtt-client-1.0.1-sources.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/paho-mqtt-client-1.0.1-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Data">
+        <item>合格</item>
+        <item>不合格</item>
+    </string-array>
+
+    <string-array name="Data8">
+        <item>是</item>
+        <item>否</item>
+    </string-array>
+
+    <string-array name="Data9">
+        <item>异常原因1</item>
+        <item>异常原因2</item>
+        <item>异常原因3</item>
+        <item>异常原因4</item>
+        <item>异常原因5</item>
+        <item>异常原因6</item>
+    </string-array>
+
+    <string-array name="Data2">
+        <item>合格</item>
+        <item>待检验</item>
+        <item>让步接收</item>
+        <item>不合格</item>
+    </string-array>
+
+    <!--&lt;!&ndash; 成型车间的抽检&ndash;&gt;-->
+    <!--<strnetwork_security_configrray name="Data">-->
+        <!--<item>合格</item>-->
+        <!--<item>不合格</item>-->
+    <!--</strnetwork_security_configrray>-->
+
+    <string-array name="chulifangshi">
+        <item>报废</item>
+        <item>返修</item>
+        <item>回库使用</item>
+    </string-array>
+
+    <string-array name="lingliaodanbie">
+
+        <item>6110</item>
+    </string-array>
+
+    <!--&lt;!&ndash; 成型车间的抽检&ndash;&gt;-->
+    <!--<strnetwork_security_configrray name="chulifangshi">-->
+        <!--<item>第一个处理方式</item>-->
+        <!--<item>第二个处理方式</item>-->
+        <!--<item>第三个处理方式</item>-->
+    <!--</strnetwork_security_configrray>-->
+    <!-- 工序检-->
+    <string-array name="Data3">
+        <item>产线1</item>
+        <item>产线1</item>
+        <item>产线1</item>
+        <item>产线1</item>
+    </string-array>
+
+    <!-- 工序检-->
+    <string-array name="Data4">
+        <item>合格</item>
+        <item>不合格</item>
+    </string-array>
+
+    <!-- 工序检-->
+    <string-array name="Data5">
+
+    </string-array>
+
+    <!-- 工序检-->
+    <string-array name="Data6">
+        <item>无损</item>
+        <item>丢失</item>
+        <item>损坏</item>
+    </string-array>
+
+    <!-- 工艺扫描-->
+    <string-array name="Data7">
+        <item>未完成</item>
+        <item>已完成</item>
+    </string-array>
+
+    <!--corner_color 边角颜色，
+  scanner_color 扫描线颜色
+  possible_result_color 扫描点颜色
+  frame_color 扫描框边线颜色
+  mask_color 模糊区域颜色
+  label_text  框上方提示
+-->
+    <declare-styleable name="ViewfinderView">
+        <attr name="corner_color" format="color"/>
+        <attr name="laser_color" format="color"/>
+        <attr name="frame_color" format="color" />
+        <attr name="mask_color" format="color" />
+        <attr name="result_point_color" format="color"/>
+        <attr name="result_color" format="color" />
+        <attr name="label_text_color" format="color"/>
+        <attr name="label_text" format="string"/>
+        <attr name="label_text_size" format="float"/>
+    </declare-styleable>
+</resources>
+

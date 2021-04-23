@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="__local_aars__:E.\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\libs\paho-mqtt-client-1.0.1.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/paho-mqtt-client-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/app/libs/paho-mqtt-client-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

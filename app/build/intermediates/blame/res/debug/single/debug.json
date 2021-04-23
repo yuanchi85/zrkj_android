@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_bordercopy.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-ldpi\\bg_bordercopy.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_xiugaishuliang_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\xiugaishuliang_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_carme_selected.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-ldpi\\icon_carme_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_softupdate_progress.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bind_cancel_.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\btn_bind_cancel_.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_gongdanlingliaoxiugaishuliang_common_layout.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\gongdanlingliaoxiugaishuliang_common_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slip_left.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\slip_left.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_picture_upload_util.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\picture_upload_util.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep2.wav.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\beep2.wav"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_touxiang.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\touxiang.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_load_footer.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\pull_to_load_footer.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_topbar_right_press.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\topbar_right_press.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xsearch_loading.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\xsearch_loading.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_kucunchaxun_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\kucunchaxun_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_pop_exit.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\pop_exit.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_select_dialog.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\color_tab_theme.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\color\\tab_theme.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toast_bg.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_xiaohuo2_tbaerl.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo2_tbaerl.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_img_ratio_selected.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\home_img_ratio_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_treeview_item.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_treeview_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_update_loading_progressbar_anim.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\update_loading_progressbar_anim.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_custom_toast.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\view_custom_toast.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_view.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\toast_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressdialog.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\progressdialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_return.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\share_return.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_top.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_bar_states.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round_white.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\bg_round_white.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_txt_person_icon.jpg.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\txt_person_icon.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slip_right.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\slip_right.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_popu_get_photo.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\popu_get_photo.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_to_left.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_devicelist.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_devicelist.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_button_selector.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\login_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pilinagxiaohou_dialog_layout.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\pilinagxiaohou_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_text_del.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\text_del.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_xiaohuo_tbaerl.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo_tbaerl.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_fragment1.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_fragment1.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fentuo.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\fentuo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_success.mp3.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\success.mp3"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_pop_enter.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_scroll_fragment.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_scroll_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pandianruku_tbaerl.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\pandianruku_tbaerl.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tuihuo_tbaerl.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\tuihuo_tbaerl.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tuihuosaomiao_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\tuihuosaomiao_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_rukuzhijian_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\rukuzhijian_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_fragment_parnet.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_fragment_parnet.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pg.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\pg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_right_selector.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\top_right_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep51.wav.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\beep51.wav"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_podaitiaozheng_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\podaitiaozheng_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tiaozheng.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\tiaozheng.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textcolor_selector.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\textcolor_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_top_bar.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\view_top_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_operateerror.mp3.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\operateerror.mp3"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_draw.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_draw.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_blue.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\text_blue.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fuhe.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\fuhe.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_tlwc.mp3.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\tlwc.mp3"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_rukufuhe_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\rukufuhe_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_emotionstore_progresscancelbtn.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_diaobo.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\diaobo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.wav.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\beep.wav"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_common_layout.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\dialog_common_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_buluruku_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\buluruku_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xsearch_msg_pull_arrow_down.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\xsearch_msg_pull_arrow_down.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_ywc.mp3.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\ywc.mp3"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_picture_upload.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\picture_upload.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_right.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_biaobiao.mp3.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\biaobiao.mp3"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_zzwc.mp3.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\zzwc.mp3"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_txt_lock_icon.jpg.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\txt_lock_icon.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mima.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\mima.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fenbao_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\fenbao_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_iv_bg_lc.jpg.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\iv_bg_lc.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_xiaohuo3_tbaerl.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo3_tbaerl.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_top_bg2.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\scan_top_bg2.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_db.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_db.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_neterror.mp3.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\neterror.mp3"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_border.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\bg_border.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kanghong.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\kanghong.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radiobutton_selector.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\radiobutton_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_icon.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\camera_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_iv_lc_icon.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\iv_lc_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_item.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zujiemian.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\activity_zujiemian.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xiaohuoguanli.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\xiaohuoguanli.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slip_ball.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\slip_ball.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_piliangxiaohuo_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\piliangxiaohuo_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_baesprount_layout.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\baesprount_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_diaobo_tbaerl.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\diaobo_tbaerl.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bind_cancel.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\btn_bind_cancel.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_upload.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-ldpi\\icon_upload.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demorfid.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demorfid.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_fragment2.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_fragment2.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_icon_nor.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\scan_icon_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_left.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_qrcode_found.wav.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\qrcode_found.wav"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_v1_7_back_hover.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\v1_7_back_hover.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_carme.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-ldpi\\icon_carme.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_wihte_frame.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\shape_wihte_frame.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_txtborder.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-mdpi\\txtborder.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_me_share_return_normal.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\me_share_return_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_touch_bule_button.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\shape_touch_bule_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_search_bg.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\s_search_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_to_bottom.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_project_mainmenu.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\project_mainmenu.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_diaobo_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\diaobo_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_listview_item_layout_tree.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_listview_item_layout_tree.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_xiaohuo_common_layout.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo_common_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_bule_button.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\shape_bule_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_btn_normal.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\menu_btn_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_topbar_right_normal.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\topbar_right_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news_tab_item_bg_select.9.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\news_tab_item_bg_select.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhijian.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\zhijian.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_btn_pressed.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\menu_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demobluetooth.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demobluetooth.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pihaoshezi_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\pihaoshezi_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tuihuo_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\tuihuo_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_to_right.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_listview_item_layout.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_listview_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_systemerror.mp3.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\raw\\systemerror.mp3"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_line_white.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\line_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_pulltorefreshview.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_pulltorefreshview.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_zrkj_login.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\zrkj_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_to_top.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\out_to_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_seletor.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\back_seletor.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_zdyspinner.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\zdyspinner.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_icon_head.jpg.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_icon_head.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_tree.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_tree.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ad_cycle_view.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\ad_cycle_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_img_ratio.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\home_img_ratio.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_title_fragment.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\demo_title_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shanchu.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-xhdpi\\shanchu.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_bottom.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\anim\\in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_lol_icon.jpg.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_lol_icon.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pihaoshezhi.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\pihaoshezhi.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_me_share_return_press.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\me_share_return_press.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_xiaohuo_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\xiaohuo_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_v1_7_back_blue_nor.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\v1_7_back_blue_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_baseweb.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\activity_baseweb.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_line_blue.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\mipmap-hdpi\\line_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tuihuo.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\tuihuo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_style.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pandianruku_activity.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\layout\\pandianruku_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_caigoufuhe.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\zrkj_android\\app\\src\\main\\res\\drawable-hdpi\\caigoufuhe.png"
+    }
+]

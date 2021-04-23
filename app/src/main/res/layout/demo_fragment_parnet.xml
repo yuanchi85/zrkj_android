@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="48.0dip" >
+
+    <!-- 屏幕切换 px dip dp  比例  适配 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:text="主容器第一部分" >
+            </TextView>
+            <!-- 横向滑动 -->
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical" >
+
+                    <fragment
+                        android:id="@+id/fragment1title"
+                        android:name="zrkj.demo.DemoTitleFragment"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp" />
+
+                    <fragment
+                        android:id="@+id/fragment1"
+                        android:name="zrkj.demo.DemoFragment1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="200dp" />
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:text="主容器第二部分" />
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical" >
+
+                    <fragment
+                        android:id="@+id/fragment2"
+                        android:name="zrkj.demo.DemoFragment2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="200dp" />
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:text="主容器第三部分" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <HorizontalScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="200dp" >
+
+                <ListView
+                    android:id="@+id/list"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:divider="#00BFFF"
+                    android:dividerHeight="1px"
+                    android:fadingEdge="none" >
+                </ListView>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </LinearLayout>
+    <!-- listview(横向+纵向) 嵌套ScrollView -->
+
+</LinearLayout>

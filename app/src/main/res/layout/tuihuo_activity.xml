@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_user">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp">
+        <!--扫描条码-->
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="14dp"
+            android:layout_marginEnd="15dp"
+            android:background="@color/background_user"
+            android:visibility="gone">
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/shape_wihte_frame">
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:lines="1"
+                    android:padding="1dp"
+                    android:text="扫描条码:"
+                    android:textSize="11sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:id="@+id/view1"
+                    android:layout_width="1dip"
+                    android:layout_height="fill_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_toRightOf="@+id/textView1"
+                    android:background="#EEEFFF" />
+
+                <EditText
+                    android:id="@+id/phonenumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_alignBottom="@+id/textView1"
+                    android:layout_toEndOf="@+id/view1"
+                    android:background="@drawable/transparent"
+                    android:ems="19"
+                    android:hint="请扫描产品条形码...."
+                    android:imeOptions="actionDone"
+                    android:padding="1dp"
+                    android:singleLine="true"
+                    android:textSize="12sp" />
+
+                <ImageView
+                    android:id="@+id/del_phonenumber"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="3dp" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <!--当前产线-->
+        <LinearLayout
+            android:id="@+id/linearlayout3"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@+id/relativeLayout1"
+            android:layout_marginTop="5dp">
+            <RelativeLayout
+                android:id="@+id/relativeLayout2"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/heightSize"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@color/background_user"
+                >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/shape_wihte_frame">
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="60dp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:lines="1"
+                        android:padding="1dp"
+                        android:text="销货单号:"
+                        android:textSize="@dimen/textSize"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/view2"
+                        android:layout_width="1dip"
+                        android:layout_height="fill_parent"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_toRightOf="@+id/textView2"
+                        android:background="#EEEFFF" />
+
+                    <EditText
+                        android:id="@+id/xiaohuodanhao"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_toEndOf="@+id/view2"
+                        android:layout_toRightOf="@+id/view2"
+                        android:background="@drawable/transparent"
+                        android:cursorVisible="false"
+                        android:editable="false"
+                        android:ems="19"
+                        android:hint=""
+                        android:imeOptions="actionDone"
+                        android:inputType="none"
+                        android:padding="1dp"
+                        android:singleLine="true"
+                        android:textIsSelectable="false"
+                        android:textSize="@dimen/textSize" />
+
+
+                </RelativeLayout>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearlayout4"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/heightSize"
+            android:layout_below="@+id/linearlayout3"
+            android:layout_marginTop="5dp"
+            >
+            <!--规格型号-->
+            <RelativeLayout
+                android:id="@+id/relativeLayout6"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="0.5dp"
+                android:background="@color/background_user"
+                >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/shape_wihte_frame">
+
+                    <TextView
+                        android:id="@+id/textView6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:lines="1"
+                        android:padding="1dp"
+                        android:text="托盘条码:"
+                        android:textSize="@dimen/textSize"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/view6"
+                        android:layout_width="1dip"
+                        android:layout_height="fill_parent"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_toRightOf="@+id/textView6"
+                        android:background="#EEEFFF" />
+
+                    <EditText
+                        android:id="@+id/tuopantiaoma"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_toEndOf="@+id/view6"
+                        android:layout_toRightOf="@+id/view6"
+                        android:background="@drawable/transparent"
+                        android:cursorVisible="false"
+                        android:editable="false"
+                        android:ems="19"
+                        android:hint="请扫描产品条形码..."
+                        android:imeOptions="actionDone"
+                        android:inputType="none"
+                        android:padding="1dp"
+                        android:singleLine="true"
+                        android:textIsSelectable="false"
+                        android:textSize="@dimen/textSize" />
+                </RelativeLayout>
+            </RelativeLayout>
+            <!--单位-->
+            <RelativeLayout
+                android:id="@+id/relativeLayout7"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginLeft="0.5dp"
+                android:layout_marginRight="5dp"
+                android:background="@color/background_user"
+                >
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/shape_wihte_frame">
+
+                    <TextView
+                        android:id="@+id/textView7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:lines="1"
+                        android:padding="1dp"
+                        android:text="产品条码:"
+                        android:textSize="@dimen/textSize"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/view7"
+                        android:layout_width="1dip"
+                        android:layout_height="fill_parent"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginRight="2dp"
+                        android:layout_toRightOf="@+id/textView7"
+                        android:background="#EEEFFF" />
+
+                    <EditText
+                        android:id="@+id/canpintiaoma"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_toEndOf="@+id/view7"
+                        android:layout_toRightOf="@+id/view7"
+                        android:background="@drawable/transparent"
+                        android:cursorVisible="false"
+                        android:editable="false"
+                        android:ems="19"
+                        android:hint="请扫描产品条形码..."
+                        android:imeOptions="actionDone"
+                        android:inputType="none"
+                        android:padding="1dp"
+                        android:singleLine="true"
+                        android:textIsSelectable="false"
+                        android:textSize="@dimen/textSize" />
+
+
+                </RelativeLayout>
+            </RelativeLayout>
+        </LinearLayout>
+        <!--内部构造器，显示列表界面-->
+        <LinearLayout
+            android:id="@+id/tableid"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_below="@+id/linearlayout4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:background="#dfd0d5"
+            android:orientation="vertical">
+
+            <ListView
+                android:id="@+id/lv_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@null" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tableid2"
+            android:layout_width="match_parent"
+            android:layout_height="190dp"
+            android:layout_below="@+id/tableid"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="#e1dada"
+            android:orientation="vertical">
+            <ListView
+                android:id="@+id/lv_list2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@null"/>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
+

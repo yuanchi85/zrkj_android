@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:orientation="vertical"
+    style="@style/TopBarViewHight" >
+
+      	<RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:background="#ECEFF0"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/camera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/camera_icon" >
+            </ImageButton>
+
+            <LinearLayout
+                android:id="@+id/ll_imgs"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/camera"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+            </LinearLayout>
+            <ImageButton
+                android:id="@+id/upload"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/ll_imgs"
+                android:background="@drawable/icon_upload" >
+            </ImageButton>
+        </RelativeLayout>  
+
+
+
+</LinearLayout>

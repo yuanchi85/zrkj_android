@@ -1,0 +1,182 @@
+<com.finddreams.baselib.view.BounceScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/TopBarViewHight"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+
+        <com.finddreams.baselib.view.ClearEditText
+            android:id="@+id/userName"
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:layout_marginTop="30dip"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:hint="请输入用户名"
+            android:maxLength="30"
+            android:paddingRight="2dp"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColorHighlight="#7e4d84" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:layout_marginTop="30dip"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:hint="请输入密码"
+            android:paddingRight="2dp"
+            android:password="true"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <com.finddreams.baselib.view.SlideButton
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:layout_marginTop="30dip"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:paddingRight="2dp"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Spinner
+            android:id="@+id/select"
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:layout_marginTop="30dip"
+            android:divider="#DADBDA"
+            android:paddingRight="2dp" >
+        </Spinner>
+
+        <RadioGroup
+            android:id="@+id/radio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="性别"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radioMale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="男" >
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radioFemale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="女" >
+            </RadioButton>
+        </RadioGroup>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="#ECEFF0"
+        android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/cb01"
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:text="A" />
+
+            <CheckBox
+                android:id="@+id/cb02"
+               android:layout_width="0px"
+                android:layout_height="wrap_content"
+                  android:layout_weight="0.2"
+                android:text="B" />
+
+            <CheckBox
+                android:id="@+id/cb03"
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                  android:layout_weight="0.2"
+                android:text="C" />
+
+            <Button
+                android:id="@+id/btn01"
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                  android:layout_weight="0.4"
+                android:text="确认" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/tz"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="普通跳转页面传递参数" />
+
+        <Button
+            android:id="@+id/tzCapture"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="拍照识别二维码" />
+
+        <Button
+            android:id="@+id/tzWeb"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="打开内嵌网页" />
+
+        <Button
+            android:id="@+id/tzPictureUpload"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="图片上传" />
+        <Button
+            android:id="@+id/tzDemoScroll_Fragment"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="ScrollListView" />
+        <Button
+            android:id="@+id/tzPulltorefreshview"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="tzPulltorefreshview" />
+         <Button
+            android:id="@+id/fragment_parent"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="fragment_parent" />
+        <Button
+            android:id="@+id/DemoBlueBootPrint"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="A300蓝牙打印机" />
+    </LinearLayout>
+
+</com.finddreams.baselib.view.BounceScrollView>

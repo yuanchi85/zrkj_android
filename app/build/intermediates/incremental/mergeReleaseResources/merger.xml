@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res"/><source path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\build\generated\res\rs\release"/><source path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\build\generated\res\resValues\release"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res"><file name="in_from_bottom" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\in_from_bottom.xml" qualifiers="" type="anim"/><file name="in_from_left" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\in_from_left.xml" qualifiers="" type="anim"/><file name="in_from_right" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\in_from_right.xml" qualifiers="" type="anim"/><file name="in_from_top" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\in_from_top.xml" qualifiers="" type="anim"/><file name="out_to_bottom" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\out_to_bottom.xml" qualifiers="" type="anim"/><file name="out_to_left" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\out_to_left.xml" qualifiers="" type="anim"/><file name="out_to_right" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\out_to_right.xml" qualifiers="" type="anim"/><file name="out_to_top" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\out_to_top.xml" qualifiers="" type="anim"/><file name="pop_enter" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\pop_enter.xml" qualifiers="" type="anim"/><file name="pop_exit" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\pop_exit.xml" qualifiers="" type="anim"/><file name="update_loading_progressbar_anim" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\anim\update_loading_progressbar_anim.xml" qualifiers="" type="anim"/><file name="tab_theme" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\color\tab_theme.xml" qualifiers="" type="color"/><file name="back_seletor" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\back_seletor.xml" qualifiers="" type="drawable"/><file name="bg_round_white" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\bg_round_white.xml" qualifiers="" type="drawable"/><file name="btn_bind_cancel" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\btn_bind_cancel.xml" qualifiers="" type="drawable"/><file name="btn_bind_cancel_" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\btn_bind_cancel_.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\ic_launcher.png" qualifiers="" type="drawable"/><file name="login_button_selector" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\login_button_selector.xml" qualifiers="" type="drawable"/><file name="me_share_return_normal" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\me_share_return_normal.png" qualifiers="" type="drawable"/><file name="pg" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\pg.xml" qualifiers="" type="drawable"/><file name="progress_bar_states" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\progress_bar_states.xml" qualifiers="" type="drawable"/><file name="progress_style" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\progress_style.xml" qualifiers="" type="drawable"/><file name="radiobutton_selector" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\radiobutton_selector.xml" qualifiers="" type="drawable"/><file name="shape_bule_button" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\shape_bule_button.xml" qualifiers="" type="drawable"/><file name="shape_touch_bule_button" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\shape_touch_bule_button.xml" qualifiers="" type="drawable"/><file name="shape_wihte_frame" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\shape_wihte_frame.xml" qualifiers="" type="drawable"/><file name="share_return" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\share_return.xml" qualifiers="" type="drawable"/><file name="tab_indicator" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\tab_indicator.xml" qualifiers="" type="drawable"/><file name="textcolor_selector" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\textcolor_selector.xml" qualifiers="" type="drawable"/><file name="text_blue" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\text_blue.xml" qualifiers="" type="drawable"/><file name="toast_bg" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\toast_bg.xml" qualifiers="" type="drawable"/><file name="top_right_selector" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\top_right_selector.xml" qualifiers="" type="drawable"/><file name="touxiang" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable\touxiang.png" qualifiers="" type="drawable"/><file name="caigoufuhe" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\caigoufuhe.png" qualifiers="hdpi-v4" type="drawable"/><file name="camera_icon" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\camera_icon.xml" qualifiers="hdpi-v4" type="drawable"/><file name="diaobo" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\diaobo.png" qualifiers="hdpi-v4" type="drawable"/><file name="emotionstore_progresscancelbtn" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\emotionstore_progresscancelbtn.png" qualifiers="hdpi-v4" type="drawable"/><file name="fentuo" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\fentuo.png" qualifiers="hdpi-v4" type="drawable"/><file name="fuhe" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\fuhe.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_img_ratio" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\home_img_ratio.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_img_ratio_selected" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\home_img_ratio_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="kanghong" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\kanghong.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_btn_normal" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\menu_btn_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_btn_pressed" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\menu_btn_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="me_share_return_press" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\me_share_return_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="news_tab_item_bg_select" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\news_tab_item_bg_select.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="pihaoshezhi" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\pihaoshezhi.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_icon_nor" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\scan_icon_nor.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_top_bg2" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\scan_top_bg2.png" qualifiers="hdpi-v4" type="drawable"/><file name="slip_ball" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\slip_ball.png" qualifiers="hdpi-v4" type="drawable"/><file name="slip_left" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\slip_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="slip_right" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\slip_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="s_search_bg" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\s_search_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="tiaozheng" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\tiaozheng.png" qualifiers="hdpi-v4" type="drawable"/><file name="topbar_right_normal" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\topbar_right_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="topbar_right_press" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\topbar_right_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="tuihuo" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\tuihuo.png" qualifiers="hdpi-v4" type="drawable"/><file name="v1_7_back_blue_nor" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\v1_7_back_blue_nor.png" qualifiers="hdpi-v4" type="drawable"/><file name="v1_7_back_hover" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\v1_7_back_hover.png" qualifiers="hdpi-v4" type="drawable"/><file name="xiaohuoguanli" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\xiaohuoguanli.png" qualifiers="hdpi-v4" type="drawable"/><file name="xsearch_loading" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\xsearch_loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="xsearch_msg_pull_arrow_down" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\xsearch_msg_pull_arrow_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="zhijian" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-hdpi\zhijian.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg_bordercopy" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-ldpi\bg_bordercopy.xml" qualifiers="ldpi-v4" type="drawable"/><file name="icon_carme" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-ldpi\icon_carme.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon_carme_selected" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-ldpi\icon_carme_selected.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon_upload" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-ldpi\icon_upload.png" qualifiers="ldpi-v4" type="drawable"/><file name="bg" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-mdpi\bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="bg_border" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-mdpi\bg_border.xml" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="mima" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-mdpi\mima.png" qualifiers="mdpi-v4" type="drawable"/><file name="text_del" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-mdpi\text_del.png" qualifiers="mdpi-v4" type="drawable"/><file name="txtborder" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-mdpi\txtborder.xml" qualifiers="mdpi-v4" type="drawable"/><file name="txt_lock_icon" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-mdpi\txt_lock_icon.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="txt_person_icon" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-mdpi\txt_person_icon.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="shanchu" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-xhdpi\shanchu.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_baseweb" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\activity_baseweb.xml" qualifiers="" type="layout"/><file name="activity_web" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\activity_web.xml" qualifiers="" type="layout"/><file name="activity_zujiemian" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\activity_zujiemian.xml" qualifiers="" type="layout"/><file name="ad_cycle_view" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\ad_cycle_view.xml" qualifiers="" type="layout"/><file name="baesprount_layout" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\baesprount_layout.xml" qualifiers="" type="layout"/><file name="camera" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\camera.xml" qualifiers="" type="layout"/><file name="demo" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo.xml" qualifiers="" type="layout"/><file name="demobluetooth" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demobluetooth.xml" qualifiers="" type="layout"/><file name="demorfid" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demorfid.xml" qualifiers="" type="layout"/><file name="demo_db" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_db.xml" qualifiers="" type="layout"/><file name="demo_devicelist" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_devicelist.xml" qualifiers="" type="layout"/><file name="demo_draw" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_draw.xml" qualifiers="" type="layout"/><file name="demo_fragment1" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_fragment1.xml" qualifiers="" type="layout"/><file name="demo_fragment2" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_fragment2.xml" qualifiers="" type="layout"/><file name="demo_fragment_parnet" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_fragment_parnet.xml" qualifiers="" type="layout"/><file name="demo_listview_item_layout" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_listview_item_layout.xml" qualifiers="" type="layout"/><file name="demo_listview_item_layout_tree" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_listview_item_layout_tree.xml" qualifiers="" type="layout"/><file name="demo_pulltorefreshview" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_pulltorefreshview.xml" qualifiers="" type="layout"/><file name="demo_scroll_fragment" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_scroll_fragment.xml" qualifiers="" type="layout"/><file name="demo_select_dialog" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_select_dialog.xml" qualifiers="" type="layout"/><file name="demo_title_fragment" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_title_fragment.xml" qualifiers="" type="layout"/><file name="demo_tree" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_tree.xml" qualifiers="" type="layout"/><file name="demo_treeview_item" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\demo_treeview_item.xml" qualifiers="" type="layout"/><file name="dialog_common_layout" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\dialog_common_layout.xml" qualifiers="" type="layout"/><file name="diaobo_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\diaobo_activity.xml" qualifiers="" type="layout"/><file name="diaobo_tbaerl" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\diaobo_tbaerl.xml" qualifiers="" type="layout"/><file name="fenbao_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\fenbao_activity.xml" qualifiers="" type="layout"/><file name="gongdanlingliaoxiugaishuliang_common_layout" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\gongdanlingliaoxiugaishuliang_common_layout.xml" qualifiers="" type="layout"/><file name="kucunchaxun_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\kucunchaxun_activity.xml" qualifiers="" type="layout"/><file name="pandianruku_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\pandianruku_activity.xml" qualifiers="" type="layout"/><file name="pandianruku_tbaerl" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\pandianruku_tbaerl.xml" qualifiers="" type="layout"/><file name="picture_upload" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\picture_upload.xml" qualifiers="" type="layout"/><file name="picture_upload_util" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\picture_upload_util.xml" qualifiers="" type="layout"/><file name="pihaoshezi_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\pihaoshezi_activity.xml" qualifiers="" type="layout"/><file name="podaitiaozheng_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\podaitiaozheng_activity.xml" qualifiers="" type="layout"/><file name="popu_get_photo" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\popu_get_photo.xml" qualifiers="" type="layout"/><file name="progressdialog" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\progressdialog.xml" qualifiers="" type="layout"/><file name="project_mainmenu" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\project_mainmenu.xml" qualifiers="" type="layout"/><file name="pull_to_load_footer" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\pull_to_load_footer.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\pull_to_refresh_header.xml" qualifiers="" type="layout"/><file name="rukufuhe_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\rukufuhe_activity.xml" qualifiers="" type="layout"/><file name="rukuzhijian_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\rukuzhijian_activity.xml" qualifiers="" type="layout"/><file name="softupdate_progress" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\softupdate_progress.xml" qualifiers="" type="layout"/><file name="toast_view" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\toast_view.xml" qualifiers="" type="layout"/><file name="tuihuosaomiao_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\tuihuosaomiao_activity.xml" qualifiers="" type="layout"/><file name="tuihuo_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\tuihuo_activity.xml" qualifiers="" type="layout"/><file name="tuihuo_tbaerl" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\tuihuo_tbaerl.xml" qualifiers="" type="layout"/><file name="viewpager_item" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\viewpager_item.xml" qualifiers="" type="layout"/><file name="view_custom_toast" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\view_custom_toast.xml" qualifiers="" type="layout"/><file name="view_top_bar" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\view_top_bar.xml" qualifiers="" type="layout"/><file name="xiaohuo2_tbaerl" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\xiaohuo2_tbaerl.xml" qualifiers="" type="layout"/><file name="xiaohuo3_tbaerl" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\xiaohuo3_tbaerl.xml" qualifiers="" type="layout"/><file name="xiaohuo_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\xiaohuo_activity.xml" qualifiers="" type="layout"/><file name="xiaohuo_common_layout" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\xiaohuo_common_layout.xml" qualifiers="" type="layout"/><file name="xiaohuo_tbaerl" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\xiaohuo_tbaerl.xml" qualifiers="" type="layout"/><file name="zdyspinner" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\zdyspinner.xml" qualifiers="" type="layout"/><file name="zrkj_login" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\zrkj_login.xml" qualifiers="" type="layout"/><file name="login" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\menu\login.xml" qualifiers="" type="menu"/><file name="ic_icon_head" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\mipmap-hdpi\ic_icon_head.jpg" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_lol_icon" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\mipmap-hdpi\ic_lol_icon.jpg" qualifiers="hdpi-v4" type="mipmap"/><file name="iv_bg_lc" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\mipmap-hdpi\iv_bg_lc.jpg" qualifiers="hdpi-v4" type="mipmap"/><file name="iv_lc_icon" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\mipmap-hdpi\iv_lc_icon.png" qualifiers="hdpi-v4" type="mipmap"/><file name="line_blue" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\mipmap-hdpi\line_blue.png" qualifiers="hdpi-v4" type="mipmap"/><file name="line_white" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\mipmap-hdpi\line_white.png" qualifiers="hdpi-v4" type="mipmap"/><file name="beep" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\beep.wav" qualifiers="" type="raw"/><file name="beep2" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\beep2.wav" qualifiers="" type="raw"/><file name="beep51" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\beep51.wav" qualifiers="" type="raw"/><file name="biaobiao" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\biaobiao.mp3" qualifiers="" type="raw"/><file name="neterror" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\neterror.mp3" qualifiers="" type="raw"/><file name="operateerror" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\operateerror.mp3" qualifiers="" type="raw"/><file name="qrcode_found" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\qrcode_found.wav" qualifiers="" type="raw"/><file name="success" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\success.mp3" qualifiers="" type="raw"/><file name="systemerror" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\systemerror.mp3" qualifiers="" type="raw"/><file name="tlwc" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\tlwc.mp3" qualifiers="" type="raw"/><file name="ywc" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\ywc.mp3" qualifiers="" type="raw"/><file name="zzwc" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\raw\zzwc.mp3" qualifiers="" type="raw"/><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\array.xml" qualifiers=""><string-array name="Data">
+        <item>合格</item>
+        <item>不合格</item>
+    </string-array><string-array name="Data8">
+        <item>是</item>
+        <item>否</item>
+    </string-array><string-array name="Data9">
+        <item>异常原因1</item>
+        <item>异常原因2</item>
+        <item>异常原因3</item>
+        <item>异常原因4</item>
+        <item>异常原因5</item>
+        <item>异常原因6</item>
+    </string-array><string-array name="Data2">
+        <item>合格</item>
+        <item>待检验</item>
+        <item>让步接收</item>
+        <item>不合格</item>
+    </string-array><string-array name="chulifangshi">
+        <item>报废</item>
+        <item>返修</item>
+        <item>回库使用</item>
+    </string-array><string-array name="lingliaodanbie">
+
+        <item>6110</item>
+    </string-array><string-array name="Data3">
+        <item>产线1</item>
+        <item>产线1</item>
+        <item>产线1</item>
+        <item>产线1</item>
+    </string-array><string-array name="Data4">
+        <item>合格</item>
+        <item>不合格</item>
+    </string-array><string-array name="Data5">
+
+    </string-array><string-array name="Data6">
+        <item>无损</item>
+        <item>丢失</item>
+        <item>损坏</item>
+    </string-array><string-array name="Data7">
+        <item>未完成</item>
+        <item>已完成</item>
+    </string-array><declare-styleable name="ViewfinderView">
+        <attr format="color" name="corner_color"/>
+        <attr format="color" name="laser_color"/>
+        <attr format="color" name="frame_color"/>
+        <attr format="color" name="mask_color"/>
+        <attr format="color" name="result_point_color"/>
+        <attr format="color" name="result_color"/>
+        <attr format="color" name="label_text_color"/>
+        <attr format="string" name="label_text"/>
+        <attr format="float" name="label_text_size"/>
+    </declare-styleable></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="ProgressWheel">
+        <attr format="string" name="text"/>
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="barColor"/>
+        <attr format="color" name="rimColor"/>
+        <attr format="dimension" name="rimWidth"/>
+        <attr format="dimension" name="spinSpeed"/>
+        <attr format="integer" name="delayMillis"/>
+        <attr format="color" name="circleColor"/>
+        <attr format="dimension" name="radius"/>
+        <attr format="dimension" name="barWidth"/>
+        <attr format="dimension" name="barLength"/>
+        <attr format="color" name="contourColor"/>
+        <attr format="dimension" name="contourSize"/>
+    </declare-styleable><declare-styleable name="ActionBar">
+        <attr format="string" localization="suggested" name="title"/>
+    </declare-styleable><declare-styleable name="CircleImageView">
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+    </declare-styleable><declare-styleable name="FlowLayout">
+        <attr format="dimension" name="horizontalSpacing"/>
+        <attr format="dimension" name="verticalSpacing"/>
+        <attr format="enum" name="orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+        <attr format="boolean" name="debugDraw"/>
+    </declare-styleable><declare-styleable name="FlowLayout_LayoutParams">
+        <attr format="boolean" name="layout_newLine"/>
+        <attr format="dimension" name="layout_horizontalSpacing"/>
+        <attr format="dimension" name="layout_verticalSpacing"/>
+    </declare-styleable></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\colors.xml" qualifiers=""><color name="white">#ffffffff</color><color name="bind_cancel_press">#ffd65284</color><color name="bind_cancel_press1">#ff7a7979</color><color name="bind_cancel">#ff999999</color><color name="expert_top_tv_normal">#ffef71a1</color><color name="black_color">#000000</color><color name="viewfinder_mask">#60000000</color><color name="result_view">#b0000000</color><color name="possible_result_points">#c0ffff00</color><color name="lightgreen">#aeff39</color><color name="menu_item_text_color">#E60200</color><color name="hs">#DCDCDC</color><color name="blue">#0000FF</color><color name="black">#000000</color><color name="background_user">#F2F2F2</color><color name="backgrounds">#778899</color><color name="lightslategray">#778899</color><color name="blue_touch_user">#B3B3B3</color></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\dimen.xml" qualifiers=""><dimen name="sixteen">16sp</dimen><dimen name="textSize">18dp</dimen><dimen name="heightSize">50dp</dimen><dimen name="widthSize">80dp</dimen></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="fab_margin">16dp</dimen><dimen name="RelativeLayout_marginTop">10dp</dimen><dimen name="text_size_14">14sp</dimen></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\drawables.xml" qualifiers=""><item name="transparent" type="drawable">#00000000</item></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\ids.xml" qualifiers=""><item name="auto_focus" type="id"/><item name="decode" type="id"/><item name="decode_failed" type="id"/><item name="decode_succeeded" type="id"/><item name="encode_failed" type="id"/><item name="encode_succeeded" type="id"/><item name="launch_product_query" type="id"/><item name="quit" type="id"/><item name="restart_preview" type="id"/><item name="return_scan_result" type="id"/><item name="search_book_contents_failed" type="id"/><item name="search_book_contents_succeeded" type="id"/></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\pull_picture_dimens.xml" qualifiers=""><dimen name="pciture_view_pager_margin">80dp</dimen><dimen name="picture_action_bar_button_margin">0dp</dimen><dimen name="picture_action_bar_height">48dp</dimen><dimen name="picture_reload_text_size">16dp</dimen><dimen name="picture_album_title_text_size">12dp</dimen><dimen name="picture_count_text_size">12dp</dimen><dimen name="picture_album_view_margin">8dp</dimen><dimen name="picture_album_view_margin_bottom">9dp</dimen><dimen name="picture_album_text_margin">6dp</dimen><dimen name="picture_album_column_margin">5dp</dimen><dimen name="picture_album_top_margin">10dp</dimen><dimen name="picture_album_item_title_height">30dp</dimen><dimen name="picture_action_bar_page_index_text_size">18dp</dimen><dimen name="picture_user_guide_margin">8dp</dimen><dimen name="picture_loading_text_top_margin">12dp</dimen><dimen name="picture_pull_to_refresh_loading_text_size">14dp</dimen><dimen name="picture_pull_to_refresh_last_update_time_text_size">10dp</dimen><dimen name="picture_pull_to_refresh_last_update_time_top_margin">6dp</dimen><dimen name="picture_pull_to_refresh_footer_height">40dp</dimen></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\pull_refresh_strings.xml" qualifiers=""><string name="pushmsg_center_no_more_msg">已经到底啦</string><string name="pushmsg_center_pull_up_text">松开加载更多</string><string name="pushmsg_center_pull_down_text">下拉可以刷新</string><string name="pushmsg_center_pull_release_text">松开获取更多</string><string name="pushmsg_center_pull_down_update_time">上次刷新时间 : </string><string name="pushmsg_center_load_more_ongoing_text">正在加载中</string><string name="xsearch_loading">正在刷新…</string><string name="picture_load_image_failed">点击屏幕，重新加载</string><string name="picture_image_loading">正在加载…</string><string name="pull_to_refresh_header_hint_normal">@string/pushmsg_center_pull_down_text</string><string name="pull_to_refresh_header_hint_normal2">上拉可以刷新</string><string name="pull_to_refresh_header_hint_ready">松开后刷新</string><string name="pull_to_refresh_header_hint_loading">@string/pushmsg_center_load_more_ongoing_text</string><string name="pull_to_refresh_header_last_time">@string/pushmsg_center_pull_down_update_time</string><string name="pull_to_refresh_footer_hint_ready">松开载入更多</string><string name="pull_to_refresh_refreshing_label">@string/pull_to_refresh_header_hint_loading</string><string name="pull_to_refresh_no_more_data">@string/pushmsg_center_no_more_msg</string><string name="pull_to_refresh_network_error">网络不给力，请检查网络</string><string name="picture_save_succeed">图片已保存到相册</string><string name="picture_save_fail">保存图片失败</string><string name="picture_next_album">下一组：</string><string name="picture_previous_album">上一组：</string></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\strings.xml" qualifiers=""><string name="copyright">Copyright © www.Zrongssoft.com</string><string name="app_name">康宏粮油</string><string name="back">返回</string><string name="paizhao">拍照</string><string name="get_photo_choose">从手机相册选取</string><string name="cancel">取消</string><string name="top_model">模特</string><string name="scan_text">将二维码放入框内, 即可自动扫描</string><string name="more">更多</string><string name="scan">扫描二维码</string><string name="no_net">沒有网络</string><string name="appName">条码系统</string><string name="login">登录</string><string name="pleaseInputUserName">请输入用户名</string></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="PopupAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/pop_enter</item>
+        <item name="android:windowExitAnimation">@anim/pop_exit</item>
+    </style><style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style><style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="TopBarViewStyle" parent="@style/CustomDialog">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48.0dip</item>
+        <item name="android:background">@drawable/scan_top_bg2</item>
+    </style><style name="TopBarViewHight" parent="@style/CustomDialog">
+        <item name="android:paddingTop">48.0dip</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style><style name="layout_full">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style><style name="layout_wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="layout_horizontal" parent="layout_full">
+        <item name="android:layout_width">0px</item>
+    </style><style name="layout_vertical" parent="layout_full">
+        <item name="android:layout_height">0px</item>
+    </style><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">false</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+    </style><style name="style_radiobutton">
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:drawableBottom">@drawable/radiobutton_selector</item>
+        <item name="android:textColor">@drawable/textcolor_selector</item>
+        <item name="android:textSize">16sp</item>
+    </style></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\vpi__attrs.xml" qualifiers=""><declare-styleable name="ViewPagerIndicator">
+        
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="boolean" name="centered"/><attr format="color" name="selectedColor"/><attr format="dimension" name="strokeWidth"/><attr format="color" name="unselectedColor"/><declare-styleable name="CirclePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="color" name="pageColor"/>
+        
+        <attr name="android:orientation"/>
+        
+     
+        
+        <attr format="boolean" name="snap"/>
+        
+        <attr format="color" name="strokeColor"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="LinePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr name="unselectedColor"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="dimension" name="lineWidth"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr format="dimension" name="gapWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="TitlePageIndicator">
+        
+        <attr format="dimension" name="clipPadding"/>
+        
+        <attr format="color" name="footerColor"/>
+        
+        <attr format="dimension" name="footerLineHeight"/>
+        
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        
+        <attr format="dimension" name="footerPadding"/>
+        
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="boolean" name="selectedBold"/>
+        
+        <attr name="android:textColor"/>
+        
+        <attr name="android:textSize"/>
+        
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="topPadding"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        
+        <attr format="boolean" name="fades"/>
+        
+        <attr format="integer" name="fadeDelay"/>
+        
+        <attr format="integer" name="fadeLength"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable></file><file path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\values\vpi__styles.xml" qualifiers=""><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="Widget"/><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">13dp</item>
+        <item name="android:paddingBottom">13dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textColor">@color/tab_theme</item>
+    </style><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+    </style></file><file name="piliangxiaohuo_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\piliangxiaohuo_activity.xml" qualifiers="" type="layout"/><file name="pilinagxiaohou_dialog_layout" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\pilinagxiaohou_dialog_layout.xml" qualifiers="" type="layout"/><file name="xiugaishuliang_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\xiugaishuliang_activity.xml" qualifiers="" type="layout"/><file name="buluruku_activity" path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\main\res\layout\buluruku_activity.xml" qualifiers="" type="layout"/></source><source path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\build\generated\res\rs\release"/><source path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\release\res"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\ZrongSoft\project\liangyou\PDAs\zrkj_android\app\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable><declare-styleable name="FlowLayout_LayoutParams"><attr format="boolean" name="layout_newLine"/><attr format="dimension" name="layout_horizontalSpacing"/><attr format="dimension" name="layout_verticalSpacing"/></declare-styleable><declare-styleable name="ViewfinderView"><attr format="color" name="corner_color"/><attr format="color" name="laser_color"/><attr format="color" name="frame_color"/><attr format="color" name="mask_color"/><attr format="color" name="result_point_color"/><attr format="color" name="result_color"/><attr format="color" name="label_text_color"/><attr format="string" name="label_text"/><attr format="float" name="label_text_size"/></declare-styleable><declare-styleable name="FlowLayout"><attr format="dimension" name="horizontalSpacing"/><attr format="dimension" name="verticalSpacing"/><attr format="enum" name="orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr><attr format="boolean" name="debugDraw"/></declare-styleable><declare-styleable name="ProgressWheel"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="color" name="barColor"/><attr format="color" name="rimColor"/><attr format="dimension" name="rimWidth"/><attr format="dimension" name="spinSpeed"/><attr format="integer" name="delayMillis"/><attr format="color" name="circleColor"/><attr format="dimension" name="radius"/><attr format="dimension" name="barWidth"/><attr format="dimension" name="barLength"/><attr format="color" name="contourColor"/><attr format="dimension" name="contourSize"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="ActionBar"><attr format="string" localization="suggested" name="title"/></declare-styleable></configuration></mergedItems></merger>

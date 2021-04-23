@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sixteen">16sp</dimen>
+    <!--界面字体-->
+    <dimen name="textSize">18dp</dimen>
+    <!--界面高度-->
+    <dimen name="heightSize">50dp</dimen>
+    <!--宽度-->
+    <dimen name="widthSize">80dp</dimen>
+</resources>

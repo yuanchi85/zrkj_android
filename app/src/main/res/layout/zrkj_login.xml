@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/TopBarViewHight"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_user"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background_user"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:src="@drawable/touxiang"
+            />
+
+        <com.finddreams.baselib.view.ClearEditText
+            android:id="@+id/userName"
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:layout_marginTop="10dip"
+            android:background="@drawable/txtborder"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:hint="请输入账号"
+            android:maxLength="30"
+            android:paddingRight="2dp"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColorHighlight="#7e4d84" />
+
+        <com.finddreams.baselib.view.ClearEditText
+            android:id="@+id/password"
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:layout_marginTop="10dip"
+            android:background="@drawable/txtborder"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:hint="请输入密码"
+            android:paddingRight="2dp"
+            android:password="true"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginBottom="50dp"/>
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/login_button_selector"
+            android:padding="1dp"
+            android:text="登  录"
+            android:textColor="@color/white"
+            android:textSize="21sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/copyright_version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textSize="12sp"
+        android:text="@string/copyright" />
+</RelativeLayout>

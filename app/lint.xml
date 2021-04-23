@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/finddreams/baselib/base/BaseActivity.java" />
+        <ignore path="src/com/finddreams/baselib/service/MQTTService.java" />
+    </issue>
+</lint>

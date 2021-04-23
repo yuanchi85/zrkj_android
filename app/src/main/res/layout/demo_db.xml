@@ -1,0 +1,49 @@
+<com.finddreams.baselib.view.BounceScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/TopBarViewHight"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btinsert"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="插入数据" />
+
+        <Button
+            android:id="@+id/btupdate"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="修改数据" />
+
+        <Button
+            android:id="@+id/btdel"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="删除数据" />
+
+        <Button
+            android:id="@+id/btselect"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="查询数据" />
+    </LinearLayout>
+
+</com.finddreams.baselib.view.BounceScrollView>

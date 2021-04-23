@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Apr 13 11:44:00 CST 2021
+1.base=E\:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=E\:\\ZrongSoft\\project\\liangyou\\PDAs\\zrkj_android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+1.path=classes.dex

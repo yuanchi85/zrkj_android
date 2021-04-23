@@ -1,0 +1,45 @@
+<com.finddreams.baselib.view.BounceScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/TopBarViewHight"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp" >
+
+    <LinearLayout
+        android:id="@+id/tp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/checkbluethooth"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="连接蓝牙设备" />
+
+        <TextView
+            android:id="@+id/txtTips"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3.0dip"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="请连接打印机！"
+            android:textColor="#0099D5"
+            android:textSize="16.0dip" />
+
+        <Button
+            android:id="@+id/print"
+            android:layout_width="150dip"
+            android:layout_height="45dip"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="打印" />
+    </LinearLayout>
+
+</com.finddreams.baselib.view.BounceScrollView>
